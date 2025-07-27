@@ -29,14 +29,6 @@
 <img width="447" height="743" alt="Screenshot 2025-07-28 003359" src="https://github.com/user-attachments/assets/6aae64e3-362c-4fee-8b1f-fac0c0b32f06" />
 
 ---
-
-## ⚙️ Getting Started
-
-### 1. Clone the Repository
-```bash
-git clone https://github.com/Ramith2004/WeatherView.git
-cd WeatherView
-
 ## 🛠️ Built With
 
 - ⚛️ **React.js** – JavaScript library for building user interfaces  
@@ -50,6 +42,15 @@ cd WeatherView
 - 🌐 [OpenWeatherMap](https://openweathermap.org/) – For providing real-time weather data  
 - 🖼️ [Unsplash Developers](https://unsplash.com/developers) – For access to beautiful background images  
 - ⚡ [Vite](https://vitejs.dev/) – For fast and modern frontend tooling  
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Ramith2004/WeatherView.git
+cd WeatherView
+
+
 
 
 
