@@ -17,7 +17,7 @@
 
 ## 🚀 Demo
 
-🔗 Live Demo: _Coming Soon_  
+🔗 Live Demo:[ _Coming Soon_](https://weatherviewrc.netlify.app/)  
 🔗 GitHub Repo: [https://github.com/Ramith2004/WeatherView](https://github.com/Ramith2004/WeatherView)
 
 ---
