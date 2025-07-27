@@ -1,61 +1,55 @@
-# Weather App
+# 🌤️ WeatherView
 
-A simple and responsive weather application built with React and Vite. This app allows users to search for current weather information by city, displaying temperature, weather conditions, humidity, and more. It fetches real-time data from a public weather API and features a clean, user-friendly interface.
-
-## Features
-
-- Search weather by city name
-- Displays temperature, humidity, wind speed, and weather conditions
-- Responsive design for mobile and desktop
-- Fast performance using Vite and React
-
-## Getting Started
-
-1. Clone the repository:
-   ```
-   git clone https://github.com/your-username/your-repo-name.git
-   ```
-2. Install dependencies:
-   ```
-   npm install
-   ```
-3. Start the development server:
-   ```
-   npm run dev
-   ```
-
-## Technologies Used
-
-- React
-- Vite
-- CSS
-- [OpenWeatherMap API](https://openweathermap.org/api) (or your chosen weather API)
+**WeatherView** is a visually dynamic and fully responsive weather application built with React and Vite. It not only displays real-time weather information like temperature, humidity, and wind speed but also fetches stunning background images that match both the city and weather conditions using the Unsplash API.
 
 ---
 
-## Original Vite + React Template Info
+## ✨ Features
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- 🔍 Search weather by city name
+- 🌡️ Displays temperature, humidity, wind speed, and weather condition
+- 🌆 Dynamic background images based on city and weather
+- 💠 Modern glassmorphism UI design
+- 📱 Fully responsive for desktop, tablet, and mobile
+- ⚡ Blazing-fast performance with Vite bundler
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Demo
 
-## Expanding the ESLint configuration
+🔗 Live Demo: _Coming Soon_  
+🔗 GitHub Repo: [https://github.com/Ramith2004/WeatherView](https://github.com/Ramith2004/WeatherView)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your
+---
+
+## 🖼️ Screenshots
+
+<img width="1919" height="855" alt="image" src="https://github.com/user-attachments/assets/f6e08c99-a285-4d86-bddb-97cebd24574f" />
+<img width="1914" height="869" alt="Screenshot 2025-07-28 003258" src="https://github.com/user-attachments/assets/e99ad745-f840-4492-8524-6e134319af84" />
+<img width="447" height="743" alt="Screenshot 2025-07-28 003359" src="https://github.com/user-attachments/assets/6aae64e3-362c-4fee-8b1f-fac0c0b32f06" />
+
+---
+
+## ⚙️ Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/Ramith2004/WeatherView.git
+cd WeatherView
+
+## 🛠️ Built With
+
+- ⚛️ **React.js** – JavaScript library for building user interfaces  
+- ⚡ **Vite** – Fast frontend build tool for modern web projects  
+- 🎨 **CSS (Glassmorphism Design)** – Stylish UI with blur, transparency, and shadows  
+- 🌐 **OpenWeatherMap API** – For fetching real-time weather data  
+- 🖼️ **Unsplash API** – For fetching city and weather-matched background images  
+
+## 🙌 Acknowledgements
+
+- 🌐 [OpenWeatherMap](https://openweathermap.org/) – For providing real-time weather data  
+- 🖼️ [Unsplash Developers](https://unsplash.com/developers) – For access to beautiful background images  
+- ⚡ [Vite](https://vitejs.dev/) – For fast and modern frontend tooling  
 
 
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
